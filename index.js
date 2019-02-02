@@ -9,21 +9,6 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  return string
+  console.log(shout(string))
 }
 
-function logShout(string) {
-  return string
-}
-
-function logShout(string) {
-  return string
-}
-
-function logShout(string) {
-  return string
-}
-
-function logShout(string) {
-  return string
-}
