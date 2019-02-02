@@ -8,6 +8,22 @@ function whisper(string) {
   return string
 }
 
-function logShout {
-  
+function logShout(string) {
+  return string
+}
+
+function logShout(string) {
+  return string
+}
+
+function logShout(string) {
+  return string
+}
+
+function logShout(string) {
+  return string
+}
+
+function logShout(string) {
+  return string
 }
